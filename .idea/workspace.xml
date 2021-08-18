@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0519d3d8-bce0-447d-a9b1-e2b3bbc40579" name="Default Changelist" comment="" />
+    <list default="true" id="0519d3d8-bce0-447d-a9b1-e2b3bbc40579" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +15,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,11 +38,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1wlkb79cxwOaITAwAxjz20GFi0S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.halen.springframework.beans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java2\work\halen-spring" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,9 +68,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ApiTest.test_beanFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="halenspringstep01" />
+  <component name="RunManager" selected="JUnit.ApiTest.test_BeanFactory (1)">
+    <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="halen-spring-step-04" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.halen.springframework.test.*" />
@@ -59,7 +79,71 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.halen.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.halen.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_beanFactory" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_cglib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="halen-spring-step-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.halen.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.halen.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_cglib" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_constructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="halen-spring-step-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.halen.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.halen.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_constructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_newInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="halen-spring-step-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.halen.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.halen.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_newInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_parameterTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="halen-spring-step-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.halen.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.halen.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_parameterTypes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApiTest.test_beanFactory" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
+        <item itemvalue="JUnit.ApiTest.test_parameterTypes" />
+        <item itemvalue="JUnit.ApiTest.test_constructor" />
+        <item itemvalue="JUnit.ApiTest.test_newInstance" />
+        <item itemvalue="JUnit.ApiTest.test_cglib" />
       </list>
     </recent_temporary>
   </component>
@@ -81,11 +169,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629040630557</updated>
-      <workItem from="1629040634369" duration="668000" />
+      <workItem from="1629040634369" duration="8479000" />
+      <workItem from="1629159839519" duration="6180000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

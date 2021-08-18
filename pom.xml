@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>halen-spring-step-01</module>
+        <module>halen-spring-step-02</module>
+        <module>halen-spring-step-03</module>
+        <module>halen-spring-step-04</module>
     </modules>
 
 

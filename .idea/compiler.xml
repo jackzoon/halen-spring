@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="halen-spring-step-04" />
+        <module name="halen-spring-step-03" />
+        <module name="halen-spring-step-02" />
         <module name="halenspringstep01" />
       </profile>
     </annotationProcessing>
